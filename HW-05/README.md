@@ -2,4 +2,4 @@
 
 Had no clue what I was doing but it was fun... I guess.
 
-https://github.io/LaneHealy/Lane-s-repository/HW-05
+https://LaneHealy.github.io/Lane-s-repository/HW-05
