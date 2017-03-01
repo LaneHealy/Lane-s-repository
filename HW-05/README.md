@@ -1,8 +1,4 @@
-# Lane Healy's MART191 Course Repo
+# Homework 5
 
-This is a git repo for all of my work during the spring 2017
+file:///C:/Users/Ya%20Boi%20Bill%20Cosby/Documents/mart191/In_class_work/01-03/HW-05/index.html
 
-https://lanehealy.github.io/Lane-s-repository/HWv2-03/empty-example/
-
-I did what i set out to do, which was to create a vampire for this assignment.
-The only problems I have faced was at the end when I couldn't get my sketch to appear properly online.
