@@ -1,18 +1,1 @@
-#this is my **first** header#
-
-
-##This is my *second* header##
-
-
-###This is an unordered list.###
-
-*yes this is a unordered list.
-..*this right herr is an unordered sub-list.
-*I really should've started this earlier in the week.
-*Forgot how to preiview this to see if i'm doing it right hahahahahahahahaha.
-*__help me__. Scratch that. ~~that.~~ I think i've got it now.
-
-1.This on the other hand is an ordered list.
-2.I wouldn't say I prefer order to disorder, but this does look better
-..1.Yes I agree
-3.The struggle is real!
+Heyo, this is my README.md for my final project.  This project was actually really difficult for me but overall was fun to do.  Over this past semester I believe that I have learned a lot from this class, and I eagerly await the opportunity to learn more.  The part in this assignment where I struggled most has probably got to be the sounds.  I'm pretty sure I tried for a solid hour to get the sounds to actually work but to no avail.  There video that we have to do for this assignment was also kind of difficult because i've never uploaded a video to youtube before.

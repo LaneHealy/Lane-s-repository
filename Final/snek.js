@@ -36,9 +36,9 @@ function Snake() {
       var d = dist(this.x, this.y, pos.x, pos.y);
       if (d < 1) {
         console.log('you done messed up a-a-ron!');
-        textSize(30);
+        textSize(60);
         fill(255,0,0);
-        text("Game Over!",300, 400);
+        text("OOOPS!",300, 400);
         //sound2.setVolume(0.1);
         //sound2.play();
         this.total = 0;
